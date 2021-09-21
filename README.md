@@ -50,5 +50,8 @@ Repayment history for the previously disbursed credits in Home Credit related to
 
  ![Ekran görüntüsü 2021-09-21 222838](https://user-images.githubusercontent.com/73841520/134241835-9f855239-564d-4575-b845-97a58923fd02.png)
 
+![image](https://user-images.githubusercontent.com/73841520/134247558-1ed03762-a5ba-43c1-8851-4a2926ec64a0.png)
+![image](https://user-images.githubusercontent.com/73841520/134247599-20d58a3b-3da8-4005-904f-3dd35407ed1f.png)
+![image](https://user-images.githubusercontent.com/73841520/134247618-6f45fc55-f12a-4d58-a047-9246a4ef42c6.png)
 
 
