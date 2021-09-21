@@ -7,6 +7,14 @@
 When someone applies to a home credit company to get a loan, estimating the person's inability to pay this loan using the LightGBM algorithm.
 
 # History of Dataset:
+* Application table contains 307.511 observations.
+* Bureau table contains 1.716.428 observations.
+* Bureau & Balance contains 27.299.925 observations.
+* Previous table contains 1.670.214 observations.
+* POS Cash Balance table contains 10.001.358 observations.
+* Installments Payments table contains 13.605.401 observations.
+* Credit Card Balance table contains 3.840.312 observations.
+
 
  ### Working with a total of 848 variables in 7 different data sets, the model estimated with 0.793296 AUC score and 0.79821 Kaggle score.
  ### This Kaggle score ranks 125th out of 7176 competitors.
