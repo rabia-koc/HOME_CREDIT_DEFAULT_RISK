@@ -2,6 +2,15 @@
 
 ![Ekran görüntüsü 2021-09-21 231044](https://user-images.githubusercontent.com/73841520/134240680-c6ae8f65-9484-416d-9a5a-aa32dac44214.png)
 
+
+# History of Project:
+When someone applies to a home credit company to get a loan, estimating the person's inability to pay this loan using the LightGBM algorithm.
+
+# History of Dataset:
+
+ ### Working with a total of 848 variables in 7 different data sets, the model estimated with 0.793296 AUC score and 0.79821 Kaggle score.
+ ### This Kaggle score ranks 125th out of 7176 competitors.
+
 ## Application_{train|test}.csv
 
 This is the main table, broken into two files for Train (with TARGET) and Test (without TARGET).
